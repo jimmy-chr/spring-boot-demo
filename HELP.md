@@ -1,7 +1,11 @@
 # Getting Started
 
-JC: Project based on Sprint Boot tutorial:
+Project based on Sprint Boot tutorial:
 https://www.youtube.com/watch?v=9SGDpanrc8U&t=772s
+
+Links used:
+https://www.jetbrains.com/idea/
+https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
 
 ### Reference Documentation
 For further reference, please consider the following sections:
