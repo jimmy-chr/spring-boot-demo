@@ -7,6 +7,26 @@ Links used:
 https://www.jetbrains.com/idea/
 https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
 
+GET request
+http://localhost:8080/api/v1/student
+
+POST request
+http://localhost:8080/api/v1/student
+{"name":"Miles","dob":"2009-06-15","email":"miles@test.com"}
+
+DELETE request
+http://localhost:8080/api/v1/student/3
+
+PUT request
+http://localhost:8080/api/v1/student/3?email=jim@test.com
+
+Run package
+$ pwd
+/c/jimmy/github-jimmy-chr/spring-boot-demo/target
+$ java -jar demo-0.0.1-SNAPSHOT.jar
+
+
+
 ### Reference Documentation
 For further reference, please consider the following sections:
 
